@@ -818,7 +818,8 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere1.jpg");
+    background-image: url("img/la-chouette-agence-banniere1.jpg") ;
+
 }
 
 .bg-presentation {
