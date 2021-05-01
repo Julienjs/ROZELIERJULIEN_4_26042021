@@ -152,14 +152,14 @@ footer
 }
 
 input:focus{
-    background-color: #993000;
+    background-color: #f3976c;
     color:white;
     font-size: 1.2em;
 }
 
 
 textarea:focus{
-    background-color: #993000;
+    background-color: #f3976c;
     color:white;
 }
 
@@ -858,16 +858,16 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #993000;
+    background-color: #f3976c;
 }
 
 .tc-white {
-    color: #993000!important;
+    color: #f3976c!important;
     font-weight: 800;
 }
 
 .btn-atomic-tangerine {
-    background:#993000;
+    background:#f3976c;
     color: #FFFFFF!important;
     letter-spacing: 1px;
     font-size: 1.3em;
