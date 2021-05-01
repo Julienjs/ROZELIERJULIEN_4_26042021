@@ -496,6 +496,10 @@ nav .caret {
 
 } 
 
+.col-sm-6 p{
+    font-size: 1.2em;
+}
+
 .mg-md{
     font-size: 2em;  
     margin-top: 10px;
@@ -767,7 +771,10 @@ p {
     justify-content: center;
     margin: auto auto auto auto;
 }
-
+.fa {
+    width: 48px;
+    height: 48px;
+}
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -801,6 +808,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-size: 1.3em;
 }
 
 .portfolio-thumb {
@@ -847,11 +855,15 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
+    letter-spacing: 1px;
+    font-size: 1.3em;
+
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;
+
 }
 
 .ltc-white {
