@@ -132,6 +132,37 @@ a:hover {
     border-color: rgba(255, 255, 255, .2);
 }
 
+header
+:focus-visible          
+{
+    border: solid 1px black;
+}
+
+main
+:focus-visible 
+{
+    border: solid 1px black;
+}
+
+footer
+:focus-visible 
+{
+    border: solid 1px black;
+}
+
+input:focus{
+    background-color: #F3976C;
+    color:white;
+    font-size: 1.2em;
+}
+
+textarea:focus{
+    background-color: #F3976C;
+    color:white;
+}
+
+
+
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
@@ -375,6 +406,12 @@ a:hover {
     z-index: 2;
 }
 
+.form-adresse{
+    border:solid black;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -841,6 +878,7 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation1.jpg");
 }
+
 
 @media (max-width: 1024px) {
     .bloc {
