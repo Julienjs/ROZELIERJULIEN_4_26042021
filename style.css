@@ -152,14 +152,14 @@ footer
 }
 
 input:focus{
-    background-color: #ff854b;
+    background-color: #ff2a00c9;
     color:white;
     font-size: 1.2em;
 }
 
 
 textarea:focus{
-    background-color: #ff854b;
+    background-color: #ff2a00c9;
     color:white;
 }
 
@@ -855,15 +855,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #ff854b;
+    background-color: #ff2a00c9;
 }
 
 .tc-white {
-    color: #ff854b!important;
+    color: #ff2a00c9!important;
 }
 
 .btn-atomic-tangerine {
-    background: #ff854b;
+    background: #ff2a00c9;
     color: #FFFFFF!important;
     letter-spacing: 1px;
     font-size: 1.3em;
@@ -885,7 +885,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #ff854b!important;
+    color: #ff2a00c9!important;
 }
 
 .ltc-atomic-tangerine:hover {
