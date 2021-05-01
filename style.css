@@ -33,11 +33,12 @@ a:hover {
     margin: 20px auto 0 auto;
 }
 
-.text-center p {
+.text-center {
     font-size: 1em;
     margin-top: 10px;
 
 }
+
 
 .title{
     width: 75%;
@@ -409,7 +410,7 @@ textarea:focus{
 .form-adresse{
     border:solid black;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     width: 100%;
 }
 @media (min-width: 768px) {
@@ -485,7 +486,18 @@ nav .caret {
     float: right;
 }
 
-.mg-md {
+.col-sm-4 h3{
+    font-size: 1.5em;
+   
+}
+
+.col-sm-6 h3{
+    font-size: 1.5em;
+
+} 
+
+.mg-md{
+    font-size: 2em;  
     margin-top: 10px;
     margin-bottom: 20px;
 }
@@ -750,7 +762,7 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    max-width: 100%;
     display: flex;
     justify-content: center;
     margin: auto auto auto auto;
