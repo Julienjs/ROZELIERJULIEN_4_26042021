@@ -152,14 +152,14 @@ footer
 }
 
 input:focus{
-    background-color: #ff854b;
+    background-color: #993000;
     color:white;
     font-size: 1.2em;
 }
 
 
 textarea:focus{
-    background-color: #ff854b;
+    background-color: #993000;
     color:white;
 }
 
@@ -417,7 +417,7 @@ textarea:focus{
 }
 
 .col-sm-12 p{
-    font-size: 2em;
+    font-size: 1.3em;
 }
 
 .col-sm-12 h1 {
@@ -854,15 +854,16 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #ff854b;
+    background-color: #993000;
 }
 
 .tc-white {
-    color: #ff854b!important;
+    color: #993000!important;
+    font-weight: 800;
 }
 
 .btn-atomic-tangerine {
-    background: #ff854b;
+    background:#993000;
     color: #FFFFFF!important;
     letter-spacing: 1px;
     font-size: 1.3em;
