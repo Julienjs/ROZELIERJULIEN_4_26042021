@@ -152,14 +152,14 @@ footer
 }
 
 input:focus{
-    background-color: #ff2a00c9;
+    background-color: #ff854b;
     color:white;
     font-size: 1.2em;
 }
 
 
 textarea:focus{
-    background-color: #ff2a00c9;
+    background-color: #ff854b;
     color:white;
 }
 
@@ -417,7 +417,7 @@ textarea:focus{
 }
 
 .col-sm-12 p{
-    font-size: 1.3em;
+    font-size: 2em;
 }
 
 .col-sm-12 h1 {
@@ -817,8 +817,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
-    
+    color: #FFFFFF!important;    
 }
 
 .portfolio-thumb {
@@ -855,15 +854,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #ff2a00c9;
+    background-color: #ff854b;
 }
 
 .tc-white {
-    color: #ff2a00c9!important;
+    color: #ff854b!important;
 }
 
 .btn-atomic-tangerine {
-    background: #ff2a00c9;
+    background: #ff854b;
     color: #FFFFFF!important;
     letter-spacing: 1px;
     font-size: 1.3em;
@@ -885,7 +884,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #ff2a00c9!important;
+    color: #ff854b!important;
 }
 
 .ltc-atomic-tangerine:hover {
