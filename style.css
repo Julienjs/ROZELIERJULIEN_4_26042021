@@ -451,6 +451,10 @@ textarea:focus{
         float: none;
         display: inline-block;
     }
+
+    .fa-chevron-up{
+        color:white;
+    }
     .nav-center .site-navigation {
         position: relative;
         width: 100%;
@@ -817,7 +821,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;    
+    color: black!important;    
 }
 
 .portfolio-thumb {
@@ -836,7 +840,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(225 225 225 / 0.8);
     padding: 40px 40px 40px 40px;
 }
 
