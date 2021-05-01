@@ -152,14 +152,14 @@ footer
 }
 
 input:focus{
-    background-color: #f3976c;
+    background-color: #993000;
     color:white;
     font-size: 1.2em;
 }
 
 
 textarea:focus{
-    background-color: #f3976c;
+    background-color: #993000;
     color:white;
 }
 
@@ -616,7 +616,7 @@ a[data-lightbox] {
     text-align: center;
 }
 
-a[data-lightbox]:hover::before {
+/*a[data-lightbox]:hover::before {
     content: "+";
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
     font-size: 32px;
@@ -632,7 +632,7 @@ a[data-lightbox]:hover::before {
     top: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
-}
+}*/
 
 a[data-lightbox]:hover img {
     opacity: 0.6;
@@ -821,7 +821,7 @@ h4 {
 }
 
 .white {
-    color: black!important;    
+    color: #FFFFFF!important;    
 }
 
 .portfolio-thumb {
@@ -858,21 +858,22 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #f3976c;
+    background-color: #993000;
 }
 
 .tc-white {
-    color: #f3976c!important;
+    color: #993000!important;
     font-weight: 800;
 }
 
 .btn-atomic-tangerine {
-    background:#f3976c;
+    background:#993000;
     color: #FFFFFF!important;
     letter-spacing: 1px;
     font-size: 1.3em;
 
 }
+
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
@@ -881,11 +882,11 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: black!important;
 }
 
 .ltc-atomic-tangerine {
