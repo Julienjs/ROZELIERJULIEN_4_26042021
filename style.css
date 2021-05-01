@@ -604,7 +604,10 @@ button {
 .scrollToTop span {
     margin-top: 6px;
 }
-
+.img-responsive{
+    width: 270px;
+    height: 270px;
+}
 .showScrollTop {
     font-size: 14px;
     opacity: 1;
@@ -616,7 +619,7 @@ a[data-lightbox] {
     text-align: center;
 }
 
-/*a[data-lightbox]:hover::before {
+a[data-lightbox]:hover::before {
     content: "+";
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
     font-size: 32px;
@@ -632,7 +635,7 @@ a[data-lightbox] {
     top: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
-}*/
+}
 
 a[data-lightbox]:hover img {
     opacity: 0.6;
