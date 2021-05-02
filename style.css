@@ -132,7 +132,9 @@ a:hover {
 .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2);
 }
-
+a:focus{
+    border:solid 1px black;
+}
 header
 :focus-visible          
 {
