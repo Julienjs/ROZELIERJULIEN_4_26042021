@@ -132,9 +132,6 @@ a:hover {
 .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2);
 }
-a:focus{
-    border:solid 1px black;
-}
 header
 :focus-visible          
 {
@@ -927,6 +924,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere2.jpg");
+
 }
 
 .bg-presentation {
