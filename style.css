@@ -15,6 +15,7 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
